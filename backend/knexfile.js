@@ -8,7 +8,20 @@ module.exports = {
       host:     '127.0.0.1',
       user:     'root',
       password: '',
-      database: 'omnistack'
+      database: 'db_omnistack'
+    },
+    migrations: {
+      directory: './src/database/migrations'
+    }
+  },
+
+  test: {
+    client: 'mysql',
+    connection: {
+      host:     '127.0.0.1',
+      user:     'root',
+      password: '',
+      database: 'test_omnistack'
     },
     migrations: {
       directory: './src/database/migrations'
