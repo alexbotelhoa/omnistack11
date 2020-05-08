@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/bethehero.svg" width="200px" />
+    <img alt="DevRadar" title="#delicinha" src="bethehero.svg" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+  <img alt="BeTheHero" src="bethehero.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
