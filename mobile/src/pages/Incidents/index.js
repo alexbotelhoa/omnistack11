@@ -32,7 +32,7 @@ export default function Incidents() {
          params: { page }
       });
       setIncidents([ ...incidents, ...response.data ]);
-      setTotal(response.headers['x-total-count']);
+      setTotal(response.headers['X-Total-Count']);
       setPage(page + 1);
       setLoading(false);
    }
