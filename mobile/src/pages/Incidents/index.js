@@ -2,9 +2,10 @@ import React, { useState, useEffect } from 'react';
 import { View, Text, Image, FlatList, TouchableOpacity } from 'react-native';
 import { Feather } from '@expo/vector-icons';
 import { useNavigation } from '@react-navigation/native';
+
+import styles from './styles';
 import api from '../../services/api';
 import logoImg from '../../assets/logo.png';
-import styles from './styles';
 
 export default function Incidents() {
    const [incidents, setIncidents] = useState([]);
