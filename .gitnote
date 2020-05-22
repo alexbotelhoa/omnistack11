@@ -1,0 +1,9 @@
+BackEnd => Node.JS => Heroku => heroku.com
+FrontEnd => React.Js => NetLify => netlify.com
+Mobile => Native => (AppStores) => ... // Ver vídeo Youtube de Expo|Code/Drops
+
+Estudar:
+- ESLint
+- Prettier
+- Autenticação JWT
+- Styled Components
