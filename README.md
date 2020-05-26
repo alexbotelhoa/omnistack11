@@ -7,20 +7,29 @@
 </h4>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alexbotelhoa/omnistack10">
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alexbotelhoa/omnistack10">
+  
+  <a href="https://github.com/alexbotelhoa/omnistack10/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alexbotelhoa/omnistack10">
+  </a>
+
+  <a href="https://github.com/alexbotelhoa/omnistack10/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/alexbotelhoa/omnistack10">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+    <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#computer_mouse-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#computer-frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#iphone-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#memo-licença">Licença</a>
 </p>
-
-<br>
 
 <p align="center">
   <img alt="BeTheHero" src="https://user-images.githubusercontent.com/44276302/82126113-f4fc3980-9780-11ea-908c-8ade7820ec0e.png" width="100%">
@@ -28,34 +37,78 @@
 
 ## :rocket: Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+:point_down: Esse projeto foi desenvolvido com as seguintes tecnologias: :point_down:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+-  [Node.js](https://nodejs.org/en/)
+-  [Express](https://expressjs.com/)
+-  [nodemon](https://github.com/remy/nodemon)
+-  [MongoDB](https://mongodb.com)
+-  [Mongoose](https://mongoosejs.com/)
+-  [Socket.io](https://socket.io/)
+-  [Cors](https://github.com/expressjs/cors)
+-  [Celebrate](https://www.npmjs.com/package/celebrate)
+-  [Cross-env](https://www.npmjs.com/package/cross-env)
+-  [Knex](http://knexjs.org/)
+-  [ReactJS](https://reactjs.org/)
+-  [Axios](https://github.com/axios/axios)
+-  [React Router](https://github.com/ReactTraining/react-router)
+-  [VS Code](https://code.visualstudio.com/)
+-  [React Icons](https://react-icons.github.io/react-icons/)
+-  [React Native](https://reactnative.dev/)
+-  [React Expo](https://expo.io/)
+-  [React Navigation](https://reactnavigation.org/)
+-  [Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer)
+-  [Intl](https://www.npmjs.com/package/react-native-intl)
+-  [React Native Gesture Handler](https://software-mansion.github.io/react-native-gesture-handler/docs/getting-started.html)
+-  [React Native Reanimated](https://software-mansion.github.io/react-native-reanimated/)
+-  [React Native Screens](https://snack.expo.io/@dominicstop/react-native-screens)
+-  [React Native Web](https://www.npmjs.com/package/react-native-web)
 
-## 💻 Projeto
+## :computer: Projeto
 
 O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
 
-## 🔖 Layout
+## :information_source: Desenvolvimento
 
-Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+### :computer_mouse: Backend: 
 
-## 🤔 Como contribuir
+```bash
+# Clone o Repositório
+$  git clone https://github.com/alexbotelhoa/omnistack11.git
+# Va até o diretório do backend, e instale suas dependências
+$ cd backend
+# Instale as dependências
+$ yarn
+# Rode o backend 
+$ yarn start 
+```
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+### :computer: Frontend: 
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+```bash
+#Vá até a pasta frontend 
+$ cd frontend 
+#Instale as dependências
+$ yarn 
+#Inicie a aplicação 
+$ yarn start
+```
+
+### :iphone: Mobile:
+
+```bash
+#Vá até a pasta mobile 
+$ cd mobile 
+#Instale as dependências
+$ yarn 
+# Android 
+$ react-native run-android
+#iOS 
+$ react-native run-ios
+```
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
