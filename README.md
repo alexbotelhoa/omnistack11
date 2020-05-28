@@ -7,16 +7,16 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alexbotelhoa/omnistack10">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alexbotelhoa/omnistack10">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alexbotelhoa/omnistack11?color=ff0000"> 
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/alexbotelhoa/omnistack11?color=%23F7DF1E">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/alexbotelhoa/omnistack11">
   
-  <a href="https://github.com/alexbotelhoa/omnistack10/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alexbotelhoa/omnistack10">
+  <a href="https://github.com/alexbotelhoa/omnistack11/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alexbotelhoa/omnistack11">
   </a>
 
-  <a href="https://github.com/alexbotelhoa/omnistack10/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/alexbotelhoa/omnistack10">
+  <a href="https://github.com/alexbotelhoa/omnistack11/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/alexbotelhoa/omnistack11">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
