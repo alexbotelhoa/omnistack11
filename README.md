@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-    <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#computer_mouse-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#computer-frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#iphone-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -40,6 +40,10 @@
 <p align="center">
   <img alt="BeTheHero" src="https://user-images.githubusercontent.com/44276302/82126113-f4fc3980-9780-11ea-908c-8ade7820ec0e.png" width="100%">
 </p>
+
+## :computer: Projeto
+
+O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
 
 ## :rocket: Tecnologias
 
@@ -69,10 +73,6 @@
 -  [React Native Reanimated](https://software-mansion.github.io/react-native-reanimated/)
 -  [React Native Screens](https://snack.expo.io/@dominicstop/react-native-screens)
 -  [React Native Web](https://www.npmjs.com/package/react-native-web)
-
-## :computer: Projeto
-
-O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
 
 ## :information_source: Desenvolvimento
 
